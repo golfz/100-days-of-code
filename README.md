@@ -9,4 +9,5 @@ Day | Date | Focus | Code
 4 | Sat, 7 Mar 2020 | Zip files with Golang | [golfz/go-zip](https://github.com/golfz/go-zip)
 5 | Sun, 8 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
 6 | Mon, 9 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
-7 | Tue, 10 Mar 2020 | package json in golang | ...
+7 | Tue, 10 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
+8 | Wed, 11 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
