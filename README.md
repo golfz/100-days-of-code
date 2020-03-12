@@ -11,3 +11,4 @@ Day | Date | Focus | Code
 6 | Mon, 9 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
 7 | Tue, 10 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
 8 | Wed, 11 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
+9 | Thu, 12 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
