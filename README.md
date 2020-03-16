@@ -15,3 +15,4 @@ Day | Date | Focus | Code
 10 | Fri, 13 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
 nil | Sat, 14 Mar 2020 | nil | nil
 11 | Sun, 15 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
+12 | Mon, 16 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
