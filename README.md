@@ -1,5 +1,5 @@
 # 100-days-of-code
-Challenge: #100DaysOfCode (https://www.100daysofcode.com)
+Challenge: #100DaysOfCode (ref: https://www.100daysofcode.com)
 
 Day | Date | Focus | Code
 ----|----- | ----- | ----
