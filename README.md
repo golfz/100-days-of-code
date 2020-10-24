@@ -16,3 +16,5 @@ Day | Date | Focus | Code
 nil | Sat, 14 Mar 2020 | nil | nil
 11 | Sun, 15 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
 12 | Mon, 16 Mar 2020 | testing in Golang | [golfz/learn-golang/test](https://github.com/golfz/learn-golang/tree/master/test)
+
+> ครั้งที่แล้วหยุดอยู่แค่กลางเดือน มีนาคม 2563 เพราะเกิด Covid-19 แล้วมีงานเข้ามาเยอะ ก็ต้องเลือกงานไว้ก่อนสิ 555 คราวนี้จะกลับมานับ 1 ใหม่
